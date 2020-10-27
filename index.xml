@@ -25,14 +25,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>My First</title>
-      <link>https://rita-2020.github.io/posts/my-first/</link>
-      <pubDate>Fri, 23 Oct 2020 23:30:53 +0200</pubDate>
-      
-      <guid>https://rita-2020.github.io/posts/my-first/</guid>
-      <description>hi</description>
-    </item>
-    
   </channel>
 </rss>
