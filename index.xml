@@ -6,14 +6,23 @@
     <description>Recent content on Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2020 23:38:34 +0200</lastBuildDate><atom:link href="https://rita-2020.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Oct 2020 11:22:44 +0100</lastBuildDate><atom:link href="https://rita-2020.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tech Mural</title>
-      <link>https://rita-2020.github.io/posts/tech-mural/</link>
+      <title>Tech_mural</title>
+      <link>https://rita-2020.github.io/posts/tech_mural/</link>
+      <pubDate>Tue, 27 Oct 2020 11:22:44 +0100</pubDate>
+      
+      <guid>https://rita-2020.github.io/posts/tech_mural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>script_deployed</title>
+      <link>https://rita-2020.github.io/posts/script_deployed/</link>
       <pubDate>Fri, 23 Oct 2020 23:38:34 +0200</pubDate>
       
-      <guid>https://rita-2020.github.io/posts/tech-mural/</guid>
-      <description>  Mural Jorge    </description>
+      <guid>https://rita-2020.github.io/posts/script_deployed/</guid>
+      <description></description>
     </item>
     
     <item>

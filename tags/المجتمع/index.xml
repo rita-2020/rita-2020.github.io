@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Computing</title>
-    <link>https://rita-2020.github.io/posts/</link>
-    <description>Recent content in Posts on Computing</description>
+    <title>المجتمع on Computing</title>
+    <link>https://rita-2020.github.io/tags/%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9/</link>
+    <description>Recent content in المجتمع on Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2020 11:22:44 +0100</lastBuildDate><atom:link href="https://rita-2020.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Oct 2020 11:22:44 +0100</lastBuildDate><atom:link href="https://rita-2020.github.io/tags/%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech_mural</title>
       <link>https://rita-2020.github.io/posts/tech_mural/</link>
@@ -23,15 +23,6 @@
       
       <guid>https://rita-2020.github.io/posts/script_deployed/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>My First</title>
-      <link>https://rita-2020.github.io/posts/my-first/</link>
-      <pubDate>Fri, 23 Oct 2020 23:30:53 +0200</pubDate>
-      
-      <guid>https://rita-2020.github.io/posts/my-first/</guid>
-      <description>hi</description>
     </item>
     
   </channel>

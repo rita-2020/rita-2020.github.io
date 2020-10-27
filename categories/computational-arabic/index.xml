@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computational arabic on Computing</title>
+    <link>https://rita-2020.github.io/categories/computational-arabic/</link>
+    <description>Recent content in computational arabic on Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Oct 2020 11:22:44 +0100</lastBuildDate><atom:link href="https://rita-2020.github.io/categories/computational-arabic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech_mural</title>
+      <link>https://rita-2020.github.io/posts/tech_mural/</link>
+      <pubDate>Tue, 27 Oct 2020 11:22:44 +0100</pubDate>
+      
+      <guid>https://rita-2020.github.io/posts/tech_mural/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
