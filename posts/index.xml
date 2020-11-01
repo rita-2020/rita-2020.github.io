@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2020 11:22:44 +0100</lastBuildDate><atom:link href="https://rita-2020.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Nov 2020 21:57:41 +0100</lastBuildDate><atom:link href="https://rita-2020.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>الكتابة بلوحة المفاتيح</title>
+      <link>https://rita-2020.github.io/posts/klavaro/</link>
+      <pubDate>Sun, 01 Nov 2020 21:57:41 +0100</pubDate>
+      
+      <guid>https://rita-2020.github.io/posts/klavaro/</guid>
+      <description>Terminal: $brew isntall klavaro</description>
+    </item>
+    
     <item>
       <title>دائرة كهربائية</title>
       <link>https://rita-2020.github.io/posts/tech_mural/</link>

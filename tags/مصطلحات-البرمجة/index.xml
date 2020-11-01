@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>مصطلحات البرمجة on Computing</title>
+    <link>https://rita-2020.github.io/tags/%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9/</link>
+    <description>Recent content in مصطلحات البرمجة on Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Nov 2020 21:57:41 +0100</lastBuildDate><atom:link href="https://rita-2020.github.io/tags/%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>الكتابة بلوحة المفاتيح</title>
+      <link>https://rita-2020.github.io/posts/klavaro/</link>
+      <pubDate>Sun, 01 Nov 2020 21:57:41 +0100</pubDate>
+      
+      <guid>https://rita-2020.github.io/posts/klavaro/</guid>
+      <description>Terminal: $brew isntall klavaro</description>
+    </item>
+    
+  </channel>
+</rss>
