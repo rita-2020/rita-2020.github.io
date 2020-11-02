@@ -6,7 +6,16 @@
     <description>Recent content in المجتمع on Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2020 11:22:44 +0100</lastBuildDate><atom:link href="https://rita-2020.github.io/tags/%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Nov 2020 15:30:52 +0100</lastBuildDate><atom:link href="https://rita-2020.github.io/tags/%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>الفضاء الكامن</title>
+      <link>https://rita-2020.github.io/posts/latentspace/</link>
+      <pubDate>Mon, 02 Nov 2020 15:30:52 +0100</pubDate>
+      
+      <guid>https://rita-2020.github.io/posts/latentspace/</guid>
+      <description>GAN to Concrete Project</description>
+    </item>
+    
     <item>
       <title>دائرة كهربائية</title>
       <link>https://rita-2020.github.io/posts/tech_mural/</link>
