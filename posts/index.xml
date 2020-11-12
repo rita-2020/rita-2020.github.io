@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2020 15:37:10 +0100</lastBuildDate><atom:link href="https://rita-2020.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Nov 2020 16:02:05 +0100</lastBuildDate><atom:link href="https://rita-2020.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>رقمنة الكتب</title>
+      <link>https://rita-2020.github.io/posts/digiitsemanually/</link>
+      <pubDate>Thu, 12 Nov 2020 16:02:05 +0100</pubDate>
+      
+      <guid>https://rita-2020.github.io/posts/digiitsemanually/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>خلية مستقلة</title>
       <link>https://rita-2020.github.io/posts/automaton/</link>
