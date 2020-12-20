@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rita-2020.github.io/</loc>
+    <lastmod>2020-12-20T16:06:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rita-2020.github.io/posts/</loc>
+    <lastmod>2020-12-20T16:06:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rita-2020.github.io/posts/digital_libraries/</loc>
+    <lastmod>2020-12-20T16:06:52+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rita-2020.github.io/categories/</loc>
     <lastmod>2020-12-11T20:45:56+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://rita-2020.github.io/categories/computational-arabic/</loc>
-    <lastmod>2020-12-11T20:45:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rita-2020.github.io/</loc>
-    <lastmod>2020-12-11T20:45:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rita-2020.github.io/posts/</loc>
     <lastmod>2020-12-11T20:45:56+02:00</lastmod>
   </url>
   
