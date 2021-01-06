@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html><head>
+	
+	<meta charset="utf-8">
+	
+	<link rel="stylesheet" href="/css/sk2.css">
+</head><body><header class="flex">
+
+<div><a href="/"><b>Computing</b></a></div>
+
+<div class="subtitle"> </div>
+
+
+
+<nav class="flex-right">
+	
+	
+		
+		<li>
+			<a href="/tags/">
+				
+				<span>tags</span>
+			</a>
+		</li>
+		
+	
+		
+		<li>
+			<a href="/categories/">
+				
+				<span>categories</span>
+			</a>
+		</li>
+		
+	
+		
+		<li>
+			<a href="/series/">
+				
+				<span>series</span>
+			</a>
+		</li>
+		
+	
+</nav>
+
+
+</header><div id="content">
+<div class="main">
+
+	
+	
+	<heading>
+		<h1>Guide for arabic OCR</h1>
+	</heading>
+	
+
+	
+	
+
+	
+	<content><h3 id="using-tesseract-optical-character-recognition-for-arabic-prints">Using Tesseract &lsquo;Optical Character Recognition&rsquo; for Arabic prints.</h3>
+<blockquote>
+<h4 id="install-tesseract">Install Tesseract</h4>
+<ul>
+<li>follow <a href="https://tesseract-ocr.github.io/tessdoc/Compiling.html">instructions</a> to install tools (for mac I use HomeBrew, and git clone tessract)</li>
+<li>To check if installation is succesfull, type in terminal <code>tesseract man</code> for the manual.</li>
+<li>Download the OCR languages needed. In Terminal type <code>tesseract --list -langs</code></li>
+<li><a href="https://tesseract-ocr.github.io/tessdoc/Compiling-%E2%80%93-GitInstallation.html#post-install-instructions">Post-Installation Instructions</a></li>
+<li>download the language files needed and place them at <code>/usr/local/share/tessdata</code></li>
+<li>for arabic, download ara.traineddata file from tessdata_best, which is trained at google!</li>
+<li>finally, follow the <a href="https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html#simplest-invocation-to-ocr-an-image">Command Line Usage</a> samples. :)</li>
+</ul>
+</blockquote>
+</content>
+
+	
+	<div>Update: 2021-01-06</div>
+
+	
+	<div class="flex">
+		<div class="pad-r-5px">Tags:</div>
+		
+	</div>
+
+	
+	
+	<div class="flex">
+		<a href="/posts/art_numerique/">
+			&lt;&lt; الفن الرقمنة</a> 
+				
+	</div>
+	
+
+	
+	
+	
+
+</div>
+
+	</div><footer class="flex">
+
+	
+		<div class="pad-r-5px">
+		©
+		2021 Computing
+		</div>
+	
+	<div class="pad-r-5px">Power by <a href="https://gohugo.io">Hugo</a></div>
+	<div>Theme <a href="https://github.com/J-Siu/hugo-theme-sk2/">SK2</a> by <a href="https://github.com/J-Siu/">J-Siu</a></div>
+
+</footer>
+
+
+
+<script src="/js/sk2.js"></script>
+</body>
+
+</html>
