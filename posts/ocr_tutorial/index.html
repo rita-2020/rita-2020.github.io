@@ -51,7 +51,7 @@
 	
 	
 	<heading>
-		<h1>Guide for arabic OCR</h1>
+		<h1>guide for Arabic OCR</h1>
 	</heading>
 	
 
@@ -59,19 +59,24 @@
 	
 
 	
-	<content><h3 id="using-tesseract-optical-character-recognition-for-arabic-prints">Using Tesseract &lsquo;Optical Character Recognition&rsquo; for Arabic prints.</h3>
+	<content><h3 id="using-tesseract-optical-character-recognition-for-arabic-print-scans">Using Tesseract &lsquo;Optical Character Recognition&rsquo; for Arabic print scans.</h3>
 <blockquote>
-<h4 id="install-tesseract">Install Tesseract</h4>
+<h4 id="installing-tesseract">Installing Tesseract</h4>
 <ul>
-<li>follow <a href="https://tesseract-ocr.github.io/tessdoc/Compiling.html">instructions</a> to install tools (for mac I use HomeBrew, and git clone tessract)</li>
-<li>To check if installation is succesfull, type in terminal <code>tesseract man</code> for the manual.</li>
-<li>Download the OCR languages needed. In Terminal type <code>tesseract --list -langs</code></li>
-<li><a href="https://tesseract-ocr.github.io/tessdoc/Compiling-%E2%80%93-GitInstallation.html#post-install-instructions">Post-Installation Instructions</a></li>
-<li>download the language files needed and place them at <code>/usr/local/share/tessdata</code></li>
-<li>for arabic, download ara.traineddata file from tessdata_best, which is trained at google!</li>
-<li>finally, follow the <a href="https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html#simplest-invocation-to-ocr-an-image">Command Line Usage</a> samples. :)</li>
+<li>Follow <a href="https://tesseract-ocr.github.io/tessdoc/Compiling.html">instructions</a> to install tools (for mac I used HomeBrew,&amp; then <code>git clone tesseract</code> ) to get a version &gt; 4.</li>
+<li>To check if installation was succesfull, type in terminal <code>tesseract man</code> to prompt the manual.</li>
+<li>Read <a href="https://tesseract-ocr.github.io/tessdoc/Compiling-%E2%80%93-GitInstallation.html#post-install-instructions">Post-Installation Instructions</a> which concerns adding needed languages.</li>
+<li>Download the ara.traineddata file from the <a href="https://github.com/tesseract-ocr/tessdata_best">tessdata_best</a> repository (which is trained at Google!), and any other need languages.</li>
+<li>Place the downloaded .traineddata files in the default location <code>/usr/local/share/tessdata</code> for linux &amp; OS X.</li>
+<li>In Terminal type <code>tesseract --list -langs</code>, and you should the list of languages you downloaded.</li>
+<li>Finally, follow the <a href="https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html#simplest-invocation-to-ocr-an-image">Command Line Usage</a> samples. :)</li>
 </ul>
 </blockquote>
+<figure>
+    <img src="../../img/lookabletext.jpeg"
+         alt="Reportage on Bala Toul Sire, Future TV" width="400px"/> 
+</figure>
+
 </content>
 
 	
