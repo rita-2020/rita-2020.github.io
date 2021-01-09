@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Jan 2021 15:05:07 +0200</lastBuildDate><atom:link href="https://rita-2020.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jan 2021 19:32:30 +0200</lastBuildDate><atom:link href="https://rita-2020.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>المرشد في الكمبيوتر</title>
+      <link>https://rita-2020.github.io/posts/computer_guide/</link>
+      <pubDate>Sat, 09 Jan 2021 19:32:30 +0200</pubDate>
+      
+      <guid>https://rita-2020.github.io/posts/computer_guide/</guid>
+      <description>Download PDF   </description>
+    </item>
+    
     <item>
       <title>guide for Arabic OCR</title>
       <link>https://rita-2020.github.io/posts/ocr_tutorial/</link>
