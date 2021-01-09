@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>still on Computing</title>
-    <link>https://rita-2020.github.io/tags/still/</link>
-    <description>Recent content in still on Computing</description>
+    <title>Drawings on Computing</title>
+    <link>https://rita-2020.github.io/categories/drawings/</link>
+    <description>Recent content in Drawings on Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2020 23:38:34 +0200</lastBuildDate><atom:link href="https://rita-2020.github.io/tags/still/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Oct 2020 23:38:34 +0200</lastBuildDate><atom:link href="https://rita-2020.github.io/categories/drawings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>script_deployed</title>
       <link>https://rita-2020.github.io/posts/script_deployed/</link>
