@@ -13,10 +13,7 @@
       <pubDate>Wed, 06 Jan 2021 15:05:07 +0200</pubDate>
       
       <guid>https://rita-2020.github.io/posts/ocr_tutorial/</guid>
-      <description>Using Tesseract &amp;lsquo;Optical Character Recognition&amp;rsquo; for Arabic print scans.  Installing Tesseract   Follow the instructions in tesseracts documentation to install required tools for a version &amp;gt;=4 (for mac I used HomeBrew,&amp;amp; then git clone tesseract ).
-  To check if installation was succesfull, type in terminal tesseract man to prompt the manual.
-  Read Post-Installation Instructions which concerns adding needed languages.
-  Download the ara.traineddata file from the tessdata_best repository (which is trained at Google!</description>
+      <description></description>
     </item>
     
     <item>
