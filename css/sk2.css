@@ -1,7 +1,7 @@
 html {
-  font-family: Arial, Helvetica, sans-serif;
+    font-family:inherit;
+    
 }
-
 .flex {
   display: flex;
   flex-wrap: wrap;
@@ -50,7 +50,7 @@ footer {
 }
 
 .card {
-  border: 3px solid forestgreen;
+  border: 1px solid black;
   padding: 10px;
   margin: 5px;
   width: 300px;
