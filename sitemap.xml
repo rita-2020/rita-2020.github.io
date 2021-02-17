@@ -23,23 +23,23 @@
   </url>
   
   <url>
-    <loc>https://rita-2020.github.io/categories/shadow-archive/</loc>
+    <loc>https://rita-2020.github.io/categories/shadow-library/</loc>
     <lastmod>2021-02-16T16:50:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rita-2020.github.io/categories/%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9/</loc>
+    <loc>https://rita-2020.github.io/tags/</loc>
+    <lastmod>2021-02-16T16:50:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rita-2020.github.io/tags/%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9/</loc>
     <lastmod>2021-02-16T16:50:44+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://rita-2020.github.io/pdfs/towardpoverty.pdf</loc>
     <lastmod>2021-02-16T16:50:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rita-2020.github.io/categories/digital-library/</loc>
-    <lastmod>2021-01-09T19:32:30+02:00</lastmod>
   </url>
   
   <url>
@@ -53,22 +53,12 @@
   </url>
   
   <url>
-    <loc>https://rita-2020.github.io/tags/</loc>
-    <lastmod>2020-12-21T21:08:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rita-2020.github.io/posts/art_numerique/</loc>
     <lastmod>2020-12-21T21:08:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://rita-2020.github.io/tags/%D8%A7%D9%84%D9%81%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A/</loc>
-    <lastmod>2020-12-21T21:08:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rita-2020.github.io/tags/%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9/</loc>
     <lastmod>2020-12-21T21:08:00+02:00</lastmod>
   </url>
   
@@ -85,6 +75,11 @@
   <url>
     <loc>https://rita-2020.github.io/posts/newspaper/</loc>
     <lastmod>2020-12-11T20:45:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rita-2020.github.io/categories/digital-library/</loc>
+    <lastmod>2020-11-14T21:59:23+01:00</lastmod>
   </url>
   
   <url>
