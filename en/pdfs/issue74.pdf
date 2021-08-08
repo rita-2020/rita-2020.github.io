@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html><head>
+	
+	<meta charset="utf-8">
+	
+	<link rel="stylesheet" href="/en/css/sk2.css">
+    
+
+    
+    
+</head><body><header class="flex">
+
+<div><a href="/en/"><b>Computing</b></a></div>
+
+<div class="subtitle"> </div>
+    
+    
+
+
+<nav class="flex-right">
+	
+	
+		
+		<li>
+			<a href="/tags/">
+				
+				<span>tags</span>
+			</a>
+		</li>
+		
+	
+		
+		<li>
+			<a href="/categories/">
+				
+				<span>categories</span>
+			</a>
+		</li>
+		
+	
+		
+		<li>
+			<a href="/series/">
+				
+				<span>series</span>
+			</a>
+		</li>
+		
+	
+</nav>
+
+  
+
+
+
+</header><div id="content">
+<div class="main">
+
+	
+	
+	<heading>
+		<h1>الزراعي اللبناني</h1>
+	</heading>
+	
+
+	
+	
+
+	
+	
+
+	
+	<div>Update: 2021-02-24</div>
+
+	
+	<div class="flex">
+		<div class="pad-r-5px">Tags:</div>
+		
+		<div class="pad-r-5px"><a href="/en/tags/%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9/">المجتمع</a></div>
+		
+	</div>
+
+	
+	
+	<div class="flex">
+		<a href="/en/pdfs/towardpoverty.pdf">
+			&lt;&lt; الى الفقر</a> 
+				<a class="flex-right" href="/en/posts/peter/">Deviant >></a>
+	</div>
+	
+
+	
+	
+	
+	<h3>See Also</h3>
+	<ul>
+		
+		<li><a href="/en/pdfs/towardpoverty.pdf">الى الفقر</a></li>
+		
+		<li><a href="/en/posts/art_numerique/">الفن الرقمنة</a></li>
+		
+		<li><a href="/en/posts/digital_libraries/">مورد المكاتب الرقميّة</a></li>
+		
+		<li><a href="/en/posts/lev/">الانسان والثقافة والحضارة، ليف كوغان</a></li>
+		
+		<li><a href="/en/posts/automaton/">خلية مستقلة</a></li>
+		
+	</ul>
+	
+
+</div>
+
+	</div><footer class="flex">
+
+	
+		<div class="pad-r-5px">
+		©
+		2021 Computing
+		</div>
+	
+	<div class="pad-r-5px">Power by <a href="https://gohugo.io">Hugo</a></div>
+	<div>Theme <a href="https://github.com/J-Siu/hugo-theme-sk2/">SK2</a> by <a href="https://github.com/J-Siu/">J-Siu</a></div>
+
+</footer>
+
+
+
+<script src="/en/js/sk2.js"></script>
+</body>
+
+</html>

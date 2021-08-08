@@ -5,7 +5,6 @@
     <link>https://rita-2020.github.io/categories/computational-arabic/</link>
     <description>Recent content in computational arabic on Computing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Mon, 08 Mar 2021 18:07:18 +0200</lastBuildDate><atom:link href="https://rita-2020.github.io/categories/computational-arabic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>عصر الإستنساخ</title>
@@ -14,6 +13,15 @@
       
       <guid>https://rita-2020.github.io/pdfs/cloningera.pdf</guid>
       <description>Open PDF</description>
+    </item>
+    
+    <item>
+      <title>العملات الرقمية</title>
+      <link>https://rita-2020.github.io/posts/cyrpto/</link>
+      <pubDate>Mon, 01 Mar 2021 21:57:41 +0100</pubDate>
+      
+      <guid>https://rita-2020.github.io/posts/cyrpto/</guid>
+      <description>Cryptocurrencies</description>
     </item>
     
     <item>
