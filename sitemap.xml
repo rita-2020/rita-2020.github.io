@@ -3,12 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rita-2020.github.io/categories/aboutme/</loc>
-    <lastmod>2023-03-19T17:10:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rita-2020.github.io/categories/</loc>
+    <loc>https://rita-2020.github.io/posts/cv/</loc>
     <lastmod>2023-03-19T17:10:10+01:00</lastmod>
   </url>
   
@@ -18,13 +13,13 @@
   </url>
   
   <url>
-    <loc>https://rita-2020.github.io/posts/cv/</loc>
+    <loc>https://rita-2020.github.io/posts/</loc>
     <lastmod>2023-03-19T17:10:10+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rita-2020.github.io/posts/</loc>
-    <lastmod>2023-03-19T17:10:10+01:00</lastmod>
+    <loc>https://rita-2020.github.io/categories/</loc>
+    <lastmod>2021-10-08T18:51:24+02:00</lastmod>
   </url>
   
   <url>
@@ -159,6 +154,10 @@
   
   <url>
     <loc>https://rita-2020.github.io/aboutme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rita-2020.github.io/aboutme/c.v./</loc>
   </url>
   
   <url>
